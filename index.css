@@ -1,0 +1,43 @@
+p{margin:20px 100px 10px 100px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: Arial;}
+h1{text-align: center;
+    font-size: 30px;
+    font-family: Georgia;}
+header{width: 900px;
+    height: 200px;
+    background-image:url("img/virtual4.gif");}
+footer{width: 900px;
+    background: gray;
+    height: 100px;}
+.hedir{font-family: System;
+    color: orange;}
+body{margin-left: 200px;}
+.nav{width: 900px;
+    height: 50px;
+    background: red;}
+.oreo{display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    font-size: 16px;
+    list-style-type: none;}
+.menu{width: 180px;
+    height: 900px;
+    background: green;}
+.container{width: 900px;
+    height: 900px;
+    display: flex;
+    background: purple;}
+.oglav{font-family: Impact;
+    color: black;}
+content{width: 800px;
+    height: 900px;
+    background: gray;}
+.rew{color: black;}
+.tree{color: black;
+    font-family: Arial;}
+.ur{font-family: Garamond;}
+.ure{text-align: center;
+    font-size: 36;
+    font-family: Helvetica;}
